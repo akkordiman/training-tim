@@ -2,7 +2,6 @@ body{
 	margin: 0;
 	font-family: sans-serif;
 	line-height: 30px;
-
 }
 
 header{
@@ -16,8 +15,15 @@ header h1{
 	color: #3D3B3B;
 	text-shadow: 3px 3px grey;
 	font-family: 'Tenali Ramakrishna', sans-serif;
-	font-size: 50px;
+	font-size: 90px;
 
+}
+
+header h2{
+	color: #3D3B3B;
+	text-shadow: 3px 3px grey;
+	font-family: 'Tenali Ramakrishna', sans-serif;
+	font-size: 50px;
 }
 
 h2{
