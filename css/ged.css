@@ -1,0 +1,67 @@
+body{
+	margin: 0;
+	font-family: sans-serif;
+	line-height: 30px;
+
+}
+
+header{
+ 	background-color: #cccccc;
+ 	text-align: center;
+ 	padding-top: 50px;
+ 	padding-bottom: 50px;
+}
+
+header h1{
+	color: #3D3B3B;
+	text-shadow: 3px 3px grey;
+	font-family: 'Tenali Ramakrishna', sans-serif;
+	font-size: 50px;
+
+}
+
+h2{
+	font-family: 'Tenali Ramakrishna', sans-serif;
+	font-size: 35px;
+	margin: 40px 0 10px;
+}
+
+header img{
+	border-radius: 250px;
+	width: 400px;
+	border: 20px solid #3D3B3B;
+
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	width: 800px;
+}
+
+a{
+	color: #4A8DA8;
+}
+a:hover{
+	color: white;
+	background-color: #3D3B3B;
+}
+footer{
+	background-color: #cccccc;
+ 	text-align: center;
+ 	padding: 50px;
+}
+
+footer p {
+	margin: 0;
+}
+
+p.class{
+	color: #999999
+	font-style: italic;
+	margin-top: 0;
+}
